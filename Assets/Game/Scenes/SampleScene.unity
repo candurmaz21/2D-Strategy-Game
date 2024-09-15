@@ -2368,7 +2368,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemSpacing: 20
   horizontalMargin: 0
-  verticalMargin: 20
+  verticalMargin: -10
   horizontal: 0
   vertical: 1
-  scrollContent: {fileID: 0}
