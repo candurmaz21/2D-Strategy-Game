@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dcc2d4d74710134f9add16c6398f4b7, type: 3}
+  m_Name: Barrack
+  m_EditorClassIdentifier: 
+  types: 1
+  buildingImage: {fileID: 21300000, guid: e13c7cb1a45646344a207aaab1bb149a, type: 3}
+  productionImage: {fileID: 21300000, guid: 7ee081586361a2d44addf6d4f727314e, type: 3}
+  buildingVisuals: {fileID: 4311511254870158519, guid: 8b64c50ff58a1e048b16ead71c127054, type: 3}
+  buildingUIButton: {fileID: 2188327226988090805, guid: 4f8c3fdf996a84d4388c63e09162955b, type: 3}
+  buildingNumber: 20
+  buildingXValue: 4
+  buildingYValue: 4
+  buildingColor: {r: 1, g: 0, b: 0.9827962, a: 1}
+  buildingName: Barracks
+  productionName: Soldier
+  objective: 
+  health: 100
+  energyProduction: 0
+  troopCooldown: 10

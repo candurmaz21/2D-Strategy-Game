@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dcc2d4d74710134f9add16c6398f4b7, type: 3}
+  m_Name: PowerPlant
+  m_EditorClassIdentifier: 
+  types: 0
+  buildingImage: {fileID: 21300000, guid: 3ffcd90b5cd83454cad1cc005ba198ff, type: 3}
+  productionImage: {fileID: 21300000, guid: 85242d2d05592e74da8004e3006d0840, type: 3}
+  buildingVisuals: {fileID: 4796882820718984125, guid: f018d4f5c4912634283f605a309fde38, type: 3}
+  buildingUIButton: {fileID: 3174878587281154419, guid: 3254256714990ce49a3d33d12e44f01a, type: 3}
+  buildingNumber: 10
+  buildingXValue: 3
+  buildingYValue: 2
+  buildingColor: {r: 0, g: 0.48235297, b: 1, a: 1}
+  buildingName: PowerPlant
+  productionName: Energy
+  objective: 
+  health: 50
+  energyProduction: 5
+  troopCapacity: 0
